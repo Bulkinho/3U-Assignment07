@@ -47,6 +47,7 @@ public class A7q4 {
                 a = false;
             }
         }
+        //show user output
         System.out.println("The marks in order from lowest to highest are: ");
         s = 10;
         while (s > 0) {
